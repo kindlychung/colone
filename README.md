@@ -1,6 +1,6 @@
 # Description
 
-This is a simple c++ program for printing out the first column of a whitespace seperated text file.
+This is a simple c++ program for printing out one arbitrary column of a whitespace seperated text file.
 
 # Things to remember
 
@@ -10,4 +10,5 @@ This is a simple c++ program for printing out the first column of a whitespace s
 
 # Todo
 
-* Extend into arbitrary column selection, or even multiple columns.
+* Validate total number of columns.
+* Extend into multiple columns.
